@@ -54,9 +54,3 @@ Run tests: `python -m unittest discover -s tests -v`
 - PyPI checks need a network connection and only cover package existence and age, not malware.
 - Only scan code you own or have written permission to review.
 
-## Next
-
-- Gitleaks and Trivy integration
-- JavaScript/TypeScript support
-- AI-SBOM output
-- Plain-language summary for business owners (CyberGuard)
