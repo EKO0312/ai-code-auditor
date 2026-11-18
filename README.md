@@ -2,7 +2,6 @@
 
 A small Python tool that scans a project for risky patterns AI coding assistants often produce, and checks dependencies for packages the AI may have invented.
 
-Part of the 12 AI security projects series (project 8) and a future CyberGuard "Code Check" feature.
 
 ## What it checks
 
